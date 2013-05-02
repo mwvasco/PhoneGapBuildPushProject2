@@ -12,6 +12,7 @@
     <author href="http://devgirl.org" email="hschinsk@adobe.com">
         Holly Schinsky
     </author>
+    
 
     <feature name="http://api.phonegap.com/1.0/device" />
 
